@@ -1,0 +1,12 @@
+
+{
+  "name": "NailExpert Studio Pro",
+  "short_name": "NailsAI",
+  "description": "IA profesional para salones de manicura.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "display": "standalone",
+  "theme_color": "#f43f5e",
+  "background_color": "#faf9f6"
+}
